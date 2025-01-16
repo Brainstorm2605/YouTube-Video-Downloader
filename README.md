@@ -21,11 +21,11 @@ pip install -r requirements.txt
 3. Modify the Code
 # Open the main.py file and:
   Add YouTube channel URLs in the channels list:
-  channels = [
-      "https://www.youtube.com/@ChannelName/videos"
-  ]
-  (Optional) Uncomment chrome_options.add_argument("--headless") to run Chrome in the background without displaying the browser:
-  chrome_options.add_argument("--headless")
+      channels = [
+          "https://www.youtube.com/@CareerGenie1/shorts"
+      ]
+      (Optional) Uncomment chrome_options.add_argument("--headless") to run Chrome in the background without displaying the browser:
+    chrome_options.add_argument("--headless")
 4. Run the Script
   Execute the script:
   python main.py
