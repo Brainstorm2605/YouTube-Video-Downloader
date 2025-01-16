@@ -1,10 +1,10 @@
 ## YouTube Video Downloader
-    This is a Python-based tool that helps you download and organize YouTube videos in bulk. 
-    It categorizes videos into folders (e.g., Anime, TV Series, Gaming, etc.) based on keywords in the video titles. It supports downloading regular videos and YouTube Shorts.
+This is a Python-based tool that helps you download and organize YouTube videos in bulk. 
+It categorizes videos into folders (e.g., Anime, TV Series, Gaming, etc.) based on keywords in the video titles. It supports downloading regular videos and YouTube Shorts.
 # Why is this Different?
-    1) No ads or unwanted interruptions.
-    2) Simple categorization of videos for better organization.
-    3) Ideal for downloading videos from entire channels quickly and efficiently.
+1) No ads or unwanted interruptions.
+2) Simple categorization of videos for better organization.
+3) Ideal for downloading videos from entire channels quickly and efficiently.
 ## Requirements
 Before running the tool, ensure you have:
 1) Python 3.x installed.
