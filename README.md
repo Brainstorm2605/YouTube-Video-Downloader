@@ -5,8 +5,7 @@ No ads or unwanted interruptions.
 Simple categorization of videos for better organization.
 Ideal for downloading videos from entire channels quickly and efficiently.
 ## Requirements
-
-# Before running the tool, ensure you have:
+Before running the tool, ensure you have:
 1) Python 3.x installed.
 2) The required dependencies installed. Run:
     pip install -r requirements.txt
